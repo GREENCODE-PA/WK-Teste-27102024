@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/18 11:00:48.000.558,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/18 11:43:01.000.937,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/06 12:01:54.000.444,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/27 12:38:08.731,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/27 12:55:22.748,C:\Users\Usuário\Desktop\Adriano\WKSistemas\src\uPedido.pas=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/27 12:55:22.748,C:\Users\Usuário\Desktop\Adriano\WKSistemas\src\uPedido.dfm=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/27 12:59:26.530,C:\Users\Usuário\Desktop\Adriano\WKSistemas\src\Pedidos.dproj=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/27 20:24:36.490,=C:\Users\Usuário\Desktop\Adriano\WKSistemas\src\Unit1.pas</Transaction>
+    <Transaction>2024/10/27 20:26:04.787,C:\Users\Usuário\Desktop\Adriano\WKSistemas\src\uFuncoes.pas=C:\Users\Usuário\Desktop\Adriano\WKSistemas\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
